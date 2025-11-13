@@ -1,0 +1,10 @@
+Project: clientproject
+Created: 2025-11-14 01:29:42
+Figma URL: https://www.figma.com/design/oWK4dPW26jwz4I3dncfu6S/NextJS--2025--main-?node-id=0-1&p=f&t=iDpHln02vZruj6dt-0
+Figma File ID: oWK4dPW26jwz4I3dncfu6S
+Colors extracted: 27
+Text styles: 1
+Pages: 1
+Components: 0
+Images: 5
+

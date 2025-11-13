@@ -1,0 +1,8 @@
+node_modules
+.next
+out
+.git
+*.log
+.DS_Store
+figma_export_data.json
+deployment_logs.txt
